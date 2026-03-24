@@ -6,7 +6,6 @@ import java.util.Scanner;
 /*
  * Project Title: Console Blackjack Trainer
  * Student Name: Joel
- * Date: [MM/DD/YYYY]
  * Description: A simple Java console Blackjack game that uses variables,
  * control structures, methods, arrays/lists, and basic error handling.
  */
