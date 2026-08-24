@@ -1,0 +1,22 @@
+Slide comment locations
+
+arrays slide 9 - 113
+/*intro to java 02 slide 23*/ - 14
+ /*exceptions slide 5*/- 129
+/*lists slide 4*/ - 9
+/*lists slide 4*/ -10 
+/*lists slide 5*/ - 109
+/*input slide 5*/ -12
+*misc slide 12* - 11
+ /*intro to java 02 slide 18*/ - 32
+*intro to functions slide 3* - 51
+/*Programming_Output_Variableslide*/-62
+/*Programming_Output_Variable 3/6 */ 27
+/*input slide 10 */ - 33
+ /*complex decisions slide 5 */ -36
+/*input slide 15 */  - 47
+ /*complex decisions slide 5 */ -97
+/*misc slide 8 "-="*/ - 70
+/*misc slide 8 "-="*/ -73
+/*misc slide 8 "-="*/ - 82
+/*IntroToFunctions slide 19 */ -121
